@@ -1,0 +1,22 @@
+Package: bhuvy-rdata
+Type: Package
+Title: My custom themes and functions
+Description: A longer statement about what this does. It must have at least one
+    complete sentence, and it may not begin with the name of the package or
+    "This package".
+Version: 0.1.0
+Date: 2019-06-14
+Authors@R: person("Bhuvan", "Venkatesh", role=c("aut", "cre"), email="bhuvan.venkatesh21@gmail.com")
+Author: Bhuvan Venkatesh [aut, cre]
+Maintainer: Bhuvan Venkatesh <bhuvan.venkatesh21@gmail.com>
+URL: https://github.com/bhuvy2/bhuvy-rdata
+BugReports: https://github.com/bhuvy2/bhuvy-rdata/issues
+License: MIT + file LICENSE
+Depends:
+    R (>= 3.0.0)
+Imports:
+Suggests:
+    covr,
+    testthat
+RoxygenNote: 6.0.0
+Roxygen: list(markdown = TRUE)
